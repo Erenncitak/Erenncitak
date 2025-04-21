@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Eren 👋</h1>
 
-<!--
-**Erenncitak/Erenncitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Gelişim Üniversitesi'nde <strong>Bilgisayar Programcılığı</strong> öğrencisiyim<br>
+  🔭 Şu anda <strong>JavaScript</strong> üzerinde çalışıyor, web projeleri geliştiriyorum<br>
+  🌱 Front-End geliştirme ve UI/UX tasarıma ilgi duyuyorum<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Bana Ulaşın
+
+- 📍 Türkiye
+- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/erencitak/)
+- 📧 erenncitak@gmail.com <!-- Bu kısmı kaldırabilir ya da gerçek mailinle değiştirebilirsin -->
+
+---
+
+### 🧰 Programlama Dilleri
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,vscode,cpp,mysql,java,php,cs" alt="Programlama Dilleri" />
+
+---
+
+### 📂 Öne Çıkan Projeler
+
+İşte birkaç projem:
+
+- - 🎞️ [Slider Projem](https://github.com/Erenncitak/Basit-Resim-Slider-Projesi) – JavaScript ile yapılmış basit resim kaydırıcı
+- - 💱 [Döviz Çevirici Uygulaması](https://github.com/Erenncitak/Currency-Converter-App) – Gerçek zamanlı döviz kurlarıyla çalışan HTML, CSS, JS tabanlı döviz çevirici
+---
+
+### 📈 GitHub İstatistiklerim
+
+![Eren'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=erenncitak&show_icons=true&theme=tokyonight)
