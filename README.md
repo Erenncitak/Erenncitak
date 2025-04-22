@@ -27,6 +27,7 @@
 
 - - 🎞️ [Slider Projem](https://github.com/Erenncitak/Basit-Resim-Slider-Projesi) – JavaScript ile yapılmış basit resim kaydırıcı
 - - 💱 [Döviz Çevirici Uygulaması](https://github.com/Erenncitak/Currency-Converter-App) – Gerçek zamanlı döviz kurlarıyla çalışan HTML, CSS, JS tabanlı döviz çevirici
+- - 📚 [İngilizce Sözlük Uygulaması](https://github.com/Erenncitak/English-to-English-Dictionary-App) – Kullanıcının girdiği kelimenin İngilizce anlamını ve telaffuzunu gösteren basit sözlük uygulaması
 ---
 
 ### 📈 GitHub İstatistiklerim
