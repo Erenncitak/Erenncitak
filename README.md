@@ -25,9 +25,10 @@
 
 İşte birkaç projem:
 
-- 🔐  [Rastgele Şifre Üretici](https://github.com/Erenncitak/random-password-generator) – HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir rastgele şifre üretecisi. Kullanıcılar güçlü şifreler oluşturabilir ve kolayca kopyalayabilir.
+- 🔐 [Rastgele Şifre Üretici](https://github.com/Erenncitak/random-password-generator) – HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir rastgele şifre üretecisi. Kullanıcılar güçlü şifreler oluşturabilir ve kolayca kopyalayabilir.
 - 💱 [Döviz Çevirici Uygulaması](https://github.com/Erenncitak/Currency-Converter-App) – Gerçek zamanlı döviz kurlarıyla çalışan, HTML, CSS ve JavaScript ile yapılmış döviz çevirici.
 - 📚 [İngilizce Sözlük Uygulaması](https://github.com/Erenncitak/English-to-English-Dictionary-App) – Kullanıcının girdiği kelimenin İngilizce anlamını ve telaffuzunu gösteren basit bir sözlük uygulaması.
+- 🌦️ [Hava Durumu Uygulaması](https://github.com/Erenncitak/Weather-App) – HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir hava durumu uygulaması. Kullanıcılar şehir ismine göre anlık sıcaklık, hissedilen sıcaklık, nem oranı ve rüzgar hızını öğrenebilir.
 ---
 
 ### 📈 GitHub İstatistiklerim
