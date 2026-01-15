@@ -22,7 +22,8 @@
 
 - 📍 Türkiye  
 - 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/erencitak/)  
-
+- 📧 erenncitak@gmail.com
+  
 ---
 
 ## 🧰 Kullandığım Teknolojiler
