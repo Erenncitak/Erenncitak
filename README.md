@@ -22,7 +22,6 @@
 
 - 📍 Türkiye  
 - 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/erencitak/)  
-- 🔗 [GitHub Profilim](https://github.com/Erenncitak)
 
 ---
 
